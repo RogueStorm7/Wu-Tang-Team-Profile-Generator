@@ -74,4 +74,4 @@ I am not taking pull requests at this time
 ## Questions / Contact Information: 🗺️
 This app can be found on my Github page at [RogueStorm7](https://github.com/RogueStorm7/The-Team-Profile-Generator.git)
 
-&copy; 2021 Mianta McKnight  | All rights reserved
+&copy; 2022 Mianta McKnight  |  All rights reserved
