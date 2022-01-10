@@ -60,6 +60,7 @@ The application is covered under a [MIT](https://opensource.org/licenses/MIT) li
 
 ## Mock Up
 
+
 ## Demo Video: 📷  
 A video demonstration of this application can be found
 
@@ -74,4 +75,4 @@ I am not taking pull requests at this time
 ## Questions / Contact Information: 🗺️
 This app can be found on my Github page at [RogueStorm7](https://github.com/RogueStorm7/The-Team-Profile-Generator.git)
 
-&copy; 2022 Mianta McKnight  |  All rights reserved
+&copy; 2022 Mianta McKnight  | All rights reserved
