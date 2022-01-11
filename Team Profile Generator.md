@@ -2,14 +2,14 @@
 
 ## Table of Contents: 📖
   * [Description](#description)
-  * [User Story](#userstory)
-  * [Usage](#usefaq)
-  * [Installation](#install)
+  * [User Story](#user-story)
+  * [Usage](#usage)
+  * [Installation](#installation)
   * [Testing](#test)
   * [Credits](#credits)
   * [License](#license)
   * [Demo Video](#demo)
-  * [Contributing to This Repo](#contributefaq)
+  * [Contributing to This Repo](#contributing-to-this-repo)
   * [Badges](#badges)
   * [Questions / Contact Details](#questions)
   
@@ -43,7 +43,7 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
-## Usage: 📐
+## Usage: 
 I want to generate a webpage that displays my team's basic info for access to GitHub profiles and emails.
 
 ## Installation: 🛠️
