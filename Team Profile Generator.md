@@ -46,10 +46,10 @@ THEN I exit the application, and the HTML is generated
 ## Usage: 
 I want to generate a webpage that displays my team's basic info for access to GitHub profiles and emails.
 
-## Installation: 🛠️
+## Installation: 
 npm i
 
-## Testing: ✔️
+## Testing: 
 npm test
 
 ## Credits:
@@ -61,10 +61,10 @@ The application is covered under a [MIT](https://opensource.org/licenses/MIT) li
 ## Mock Up
 
 
-## Demo Video: 📷  
+## Demo Video:   
 A video demonstration of this application can be found
 
-## Contributing to This Repo: 🧭
+## Contributing to This Repo: 
 I am not taking pull requests at this time
 
 ## Badges
@@ -72,7 +72,7 @@ I am not taking pull requests at this time
 ![badge size](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-## Questions / Contact Information: 🗺️
+## Questions / Contact Information: 
 This app can be found on my Github page at [RogueStorm7](https://github.com/RogueStorm7/The-Team-Profile-Generator.git)
 
 &copy; 2022 Mianta McKnight  | All rights reserved
