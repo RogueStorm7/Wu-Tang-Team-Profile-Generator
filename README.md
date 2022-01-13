@@ -1,4 +1,3 @@
-# Amazing-Team-Profile-Generator
 # Amazing Team Profile Generator
 
 ## Table of Contents: 📖
