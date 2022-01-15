@@ -18,7 +18,7 @@
   * [Questions](#questions)
   
 ## Description:
-  This is a Node.js command-line application that takes in information about software engineering team employees, then generates an HTML webpage that dispalys summaries for each person. Testing is key to make code maintainable, so unit testing for all part of the code and ensuring it passes each test. Please make sure you have installed [node.](https://nodejs.org/en/)
+  This is a Node.js command-line application that takes in information about software engineering team employees, then generates an HTML webpage that dispalys summaries for each person. Testing is key to make code maintainable, so unit testing for all part of the code and ensuring it passes each test. Please make sure you have installed [node.](https://nodejs.org/methodman11101
 
 ## User Story
 AS A manager
