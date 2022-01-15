@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-# Wu-Tang 👐 Team Profile Generator
-
-
-![Wu-Tang Logo](./assets/images/wu-tang-logo.jpg)
-=======
 # Amazing Team Profile Generator
->>>>>>> 9f5086e8f940cd8fdc5c2d9bfabc91f282132cef
 
 ## Table of Contents: 📖
   * [Description](#description)
@@ -15,21 +8,14 @@
   * [Testing](#testing)
   * [Credits](#credits)
   * [License](#license)
-<<<<<<< HEAD
   * [Mock-up](#mock-up)
-=======
->>>>>>> 9f5086e8f940cd8fdc5c2d9bfabc91f282132cef
   * [Demo Walk-through  Video](#demo-walk-through-video)
   * [Contributing to This Repo](#contributing-to-this-repo)
   * [Badges](#badges)
   * [Questions](#questions)
   
 ## Description:
-<<<<<<< HEAD
-  This is a Node.js command-line application that takes in information about software engineering team employees, then generates an HTML webpage that dispalys summaries for each person. Testing is key to make code maintainable, so unit testing for all part of the code and ensuring it passes each test. Please make sure you have installed [node.](https://nodejs.org/methodman11101
-=======
   This is a Node.js command-line application that takes in information about software engineering team employees, then generates an HTML webpage that dispalys summaries for each person. Testing is key to make code maintainable, so unit testing for all part of the code and ensuring it passes each test. Please make sure you have installed [node.](https://nodejs.org/en/)
->>>>>>> 9f5086e8f940cd8fdc5c2d9bfabc91f282132cef
 
 ## User Story
 AS A manager
@@ -59,17 +45,10 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 ## Usage: 
-<<<<<<< HEAD
 - In the terminal type in **"npm run"**.
 - There will be an array of questions to answer in the command line. This is how you add all your amazing team members.
 - Once you add all your employees/ amazing team members select the **"I'm done"** option when prompted. 
 - The HTML along with the  _"style.css"_ , stylesheet, will  be found in the _dist folder_. 
-=======
-- In the terminal type in **"npm start"**.
-- There will be an array of questions to answer in the command line. This is how you add all your amazing team members.
-- Once you add all your employyes/ amazing team members select the **"I'm done"** option when prompted. 
-- The HTML along with the  _"style.css"_ , stylesheet, will  be found in the dist folder. 
->>>>>>> 9f5086e8f940cd8fdc5c2d9bfabc91f282132cef
 - Open the HTML page with your browser to see the results.
 
 ## Installation: 
@@ -78,7 +57,6 @@ npm i
 ## Testing: 
 To run a test type in _"npm test"_. There are several test suites available in this application.
 
-<<<<<<< HEAD
 - __Employee__
    1. constructor
     - creates an Employee object
@@ -115,20 +93,12 @@ To run a test type in _"npm test"_. There are several test suites available in t
 
 ## Credits:
 Background image is a free to use image that was obtained from [unsplash.com](https://unsplash.com/photos/AMssSjUaTY4)
-=======
-## Credits:
-Background image is a free to use image that was obtained from [unsplash.com]()
->>>>>>> 9f5086e8f940cd8fdc5c2d9bfabc91f282132cef
 
 ## License:
 The application is covered under a [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Mock Up: 
-<<<<<<< HEAD
 ![Mock Up](./assets/images/mockup.png)
-=======
-![Mock Up]()
->>>>>>> 9f5086e8f940cd8fdc5c2d9bfabc91f282132cef
 
 ## Demo Walk-through Video:   
 A video demonstration of this application can be found [here]()
@@ -162,8 +132,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-<<<<<<< HEAD
 SOFTWARE.
-=======
-SOFTWARE.
->>>>>>> 9f5086e8f940cd8fdc5c2d9bfabc91f282132cef
