@@ -1,0 +1,31 @@
+{
+  "name": "amazing-team-profile-generator",
+  "version": "1.0.0",
+  "description": "*A command line thst takes information about an amazing team of software engineers and then generates an HTML webpage and summary of each amazing team member",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "jests"
+  },
+  "scripts": {
+    "start": "node.index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogueStorm7/Amazing-Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RogueStorm7/Amazing-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/RogueStorm7/Amazing-Team-Profile-Generator#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "inquirer": "8.2.0"
+  }
+}
