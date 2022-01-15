@@ -50,11 +50,11 @@ const generateHtml = (teamMemberObjs) => {
                     rel="stylesheet"
                 />
                 <link rel="stylesheet" href="styles.css" />
-                <title>My Team</title>
+                <title>Wu-Tang Team</title>
             </head>
             <body>
             <header>
-                <h1>My Team</h1>
+                <h1>Wu-Tang Team</h1>
             </header>
             <main>
         `,

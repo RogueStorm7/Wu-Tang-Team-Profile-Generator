@@ -1,11 +1,11 @@
 {
-  "name": "amazing-team-profile-generator",
+  "name": "Wu-Tang-team-profile-generator",
   "version": "1.0.0",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
-      "name": "amazing-team-profile-generator",
+      "name": "Wu-Tang-team-profile-generator",
       "version": "1.0.0",
       "license": "MIT",
       "dependencies": {
