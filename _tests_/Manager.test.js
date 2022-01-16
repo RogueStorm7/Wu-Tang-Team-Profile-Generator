@@ -4,15 +4,15 @@ describe("Manager", () => {
   describe("constructor", () => {
     it("creates a Manager object", () => {
       const manager = new Manager(
-        "Storm",
+        "Inspectah Deck",
         2200,
-        "xmen@company.org",
+        "inspectah@company.org",
         999
       );
 
-      expect(manager.getName()).toBe("Storm");
+      expect(manager.getName()).toBe("Inspectah Deck");
       expect(manager.getId()).toBe(2200);
-      expect(manager.getEmail()).toBe("xmen@company.org");
+      expect(manager.getEmail()).toBe("inspectah@company.org");
       expect(manager.getOfficeNumber()).toBe(999);
       expect(manager.getRole()).toBe("Manager");
     });
@@ -21,9 +21,9 @@ describe("Manager", () => {
   describe("getOfficeNumber", () => {
       it("should return 111", () => {
         const manager = new Manager(
-            "Storm",
+            "GhostFace Killah",
             2200,
-            "xmen@company.org",
+            "ghostfacekillah@company.org",
             999
           );
 
@@ -34,9 +34,9 @@ describe("Manager", () => {
   describe("getRole", () => {
       it("should return \"Manager\"", () => {
         const manager = new Manager(
-            "Magik",
+            "U-God",
             2200,
-            "xmen@company.org",
+            "u-god@company.org",
             999
           );
 

@@ -4,7 +4,7 @@ describe("Intern", () => {
   describe("constructor", () => {
     it("should create an Intern object", () => {
       const intern = new Intern(
-        "Miles Morales",
+        "Method Man",
         2022,
         "spiderman@spiderverse.edu",
         "SpiderVerse University"
