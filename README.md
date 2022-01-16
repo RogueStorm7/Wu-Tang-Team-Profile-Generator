@@ -106,7 +106,7 @@ The application is covered under a [MIT](https://opensource.org/licenses/MIT) li
 ![Mock Up](./assets/images/mockup.png)
 
 ## Screenshots
-<img src=./assets/images/screenshot-wu-tang-team-profile-generator-1.png>
+![Preview](./assets/images/screenshot-wu-tang-team-profile-generator-1.png)
 
 ## Demo Walk-through Video:   
 A video demonstration of this application can be found [here]()
