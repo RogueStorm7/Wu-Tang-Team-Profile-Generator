@@ -12,7 +12,6 @@
   * [Testing](#testing)
   * [Credits](#credits)
   * [License](#license)
-  * [Screenshots](#screenshots)
   * [Mock-up](#mock-up)
   * [Demo Walk-through  Video](#demo-walk-through-video)
   * [Contributing to This Repo](#contributing-to-this-repo)
@@ -104,9 +103,6 @@ The application is covered under a [MIT](https://opensource.org/licenses/MIT) li
 
 ## Mock Up: 
 ![Mock Up](./assets/images/mockup.png)
-
-## Screenshots
-![Preview](./assets/images/screenshot-wu-tang-team-profile-generator-1.png)
 
 ## Demo Walk-through Video:   
 A video demonstration of this application can be found [here]()
