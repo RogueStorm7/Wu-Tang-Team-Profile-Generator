@@ -49,7 +49,7 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 ## Usage: 
-- In the terminal type in **"npm run"**.
+- In the terminal type in **"npm start**.
 - There will be an array of questions to answer in the command line. This is how you add all your amazing team members.
 - Once you add all your employees/ amazing team members select the **"I'm done"** option when prompted. 
 - The HTML along with the  _"style.css"_ , stylesheet, will  be found in the _dist folder_. 
