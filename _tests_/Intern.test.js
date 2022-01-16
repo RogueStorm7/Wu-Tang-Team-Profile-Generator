@@ -17,25 +17,25 @@ describe("Intern", () => {
   });
 
   describe("getSchool", () => {
-    it('should return "SpiderVerse University"', () => {
+    it('should return "School of Hard Knocks Shaolin University"', () => {
       const intern = new Intern(
-        "Skippy",
+        "GZA",
         2022,
-        "spiderman@spiderverse.edu",
-        "SpiderVerse University"
+        "gza@wutang.edu",
+        "School of Hard Knocks Shaolin University"
       );
 
-      expect(intern.getSchool()).toBe("SpiderVerse University");
+      expect(intern.getSchool()).toBe("School of Hard Knocks Shaolin University");
     });
   });
 
   describe("getRole", () => {
     it('should return "Intern"', () => {
       const intern = new Intern(
-        "Miles Morales",
+        "ODB",
         2022,
-        "spiderman@spiderverse.edu", 
-        "SpiderVerse University"
+        "odb@wutang.edu", 
+        "School of Hard Knocks Shaolin University"
       );
 
       expect(intern.getRole()).toBe("Intern");

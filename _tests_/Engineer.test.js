@@ -33,7 +33,7 @@ describe("Engineer", () => {
   describe("getRole", () => {
     it('should return "Engineer"', () => {
       const engineer = new Engineer(
-        "Chadwick",
+        "Rza",
         3636,
         "rza@company.org",
         "WuTangForever"
