@@ -1,4 +1,4 @@
-@import url("'https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap'");
+@import url("'https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=PT+Serif&display=swap'");
 
 * {
   margin: 0;
@@ -7,14 +7,15 @@
 }
 
 body {
-  font-family: Roboto, sans-serif;
+  font-family: 'Luxurious Roman', cursive;
+  font-family: 'PT Serif', serif;
 }
 
 header {
   text-align: center;
   padding: 2rem;
   margin: 0;
-  background-color: rgb(71, 246, 255);
+  background-color: rgb(230, 255, 71);
   color: white;
 }
 

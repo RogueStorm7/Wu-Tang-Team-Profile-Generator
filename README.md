@@ -1,6 +1,8 @@
 # Wu-Tang 👐 Team Profile Generator
+<p align="center">
+  <img src="./assets/images/wu-tang-triumph.gif" style="width: 900px; height:300px;"/>
+</p>
 
-![Wu-Tang Gif](./assets/images/wu-tang-triumph.gif)  
 
 ## Table of Contents: 📖
   * [Description](#description)
