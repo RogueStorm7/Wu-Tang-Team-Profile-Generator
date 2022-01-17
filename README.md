@@ -104,7 +104,7 @@ The application is covered under a [MIT](https://opensource.org/licenses/MIT) li
 ![Mock Up](./assets/images/mockup.png)
 
 ## Demo Walk-through Video:   
-
+[Demo](https://github.com/RogueStorm7/Wu-Tang-Team-Profile-Generator/blob/main/assets/walkthrough/walk-through-demo.webm)
 
 ## Contributing to This Repo: 
 I am not taking pull requests at this time.
