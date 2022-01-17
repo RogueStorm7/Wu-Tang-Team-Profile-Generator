@@ -95,7 +95,7 @@ To run a test type in _"npm test"_. There are several test suites available in t
     - returns *"Intern"*
 
 ## Credits:
-Background image is a free to use image that was obtained from [unsplash.com](https://unsplash.com/photos/AMssSjUaTY4)
+Wu Tang Clan - Triumph Gif was obtained from [fufurthought.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffuforthought.tumblr.com%2Fpost%2F169347404537%2Fwu-tang-clan-triumph&psig=AOvVaw3o4mK5EGQ8aGicQ4a8bN5p&ust=1642472325115000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCNj31bXct_UCFQAAAAAdAAAAABAD)
 
 ## License:
 The application is covered under a [MIT](https://opensource.org/licenses/MIT) license.
