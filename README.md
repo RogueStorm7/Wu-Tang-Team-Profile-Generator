@@ -1,7 +1,6 @@
 # Wu-Tang 👐 Team Profile Generator
 <p align="center">
-  <img src="./assets/images/wu-tang-triumph.gif" style="width: 900px; height:300px;"/>
-</p>
+  <img src="./assets/images/wu-tang-triumph.gif" style="width: 900px; height:300px;"</p>
 
 
 ## Table of Contents: 📖
@@ -105,7 +104,7 @@ The application is covered under a [MIT](https://opensource.org/licenses/MIT) li
 ![Mock Up](./assets/images/mockup.png)
 
 ## Demo Walk-through Video:   
-A video demonstration of this application can be found [here]()
+
 
 ## Contributing to This Repo: 
 I am not taking pull requests at this time.
@@ -116,7 +115,7 @@ I am not taking pull requests at this time.
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## Questions: 
-This app can be found on my Github page at [RogueStorm7](https://github.com/RogueStorm7/The-Team-Profile-Generator.git)
+This app can be found on my Github page at [RogueStorm7](https://github.com/RogueStorm7/Wu-Tang-Team-Profile-Generator.git)
 
 &copy; 2022 Mianta McKnight  | All rights reserved | 
 
